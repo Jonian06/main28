@@ -1,0 +1,41 @@
+body
+{
+  color: purple;
+  background-color: aquamarine;
+}
+span
+{
+  font-size: 30px;
+}
+
+#result_gesture_name ,#result_gesture_name1  
+{
+  color:blueviolet;
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.gesture
+{
+  font-size:48px;
+}
+label{
+  font-size:15px;
+  color:darkmagenta;
+  padding:6px;
+  border-radius: 10px;
+  background-color:blanchedalmond;
+}
+h3{
+  letter-spacing:10px;
+}
+#camera,#Result{
+  border:2px  solid burlywood;
+  width:350px;
+  height:300px;
+}
+#result_gesture_name,#result_gesture_name1{
+  color:cyan;
+
+}
